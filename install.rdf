@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+	<em:id>overbiteff@floodgap.com</em:id>
+	<em:version>3.1.1695</em:version>
+	<em:type>2</em:type>
+	
+	<!-- Pale Moon -->
+		<em:targetApplication>
+			<Description>
+				<em:id>{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}</em:id>
+				<em:minVersion>26.0</em:minVersion>
+				<em:maxVersion>29.*</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+
+	<!-- Firefox -->
+	<em:targetApplication>
+		<Description>
+		<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+		<em:minVersion>38.0</em:minVersion>
+		<em:maxVersion>46.0</em:maxVersion>
+		</Description>
+	</em:targetApplication>
+
+	<!-- SeaMonkey -->
+	<em:targetApplication>
+		<Description>
+		<em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
+		<em:minVersion>2.35</em:minVersion>
+		<em:maxVersion>2.42</em:maxVersion>
+		</Description>
+	</em:targetApplication>
+
+	<em:name>OverbiteFF</em:name>
+	<em:description>Enhanced Gopher extension for Firefox and Pale Moon, with finger, CSO/ph/qi and whois support.</em:description>
+	<em:creator>Cameron Kaiser/Overbite Project</em:creator>
+	<em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
+	<em:contributor>All of our testers</em:contributor>
+	<em:contributor>and localizers</em:contributor>
+	<em:iconURL>chrome://overbiteff/content/imascot.png</em:iconURL>
+	<!-- i18n -->
+	<em:localized>
+	<Description>
+	 <em:locale>pl-PL</em:locale>
+	 <em:name>OverbiteFF</em:name>
+	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
+	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
+	 <em:translator>B.J. Stobiecki</em:translator>
+	 <em:description>Udoskonalone rozszerzenie protokołu Gopher dla Firefox/Pale Moon, ze wsparciem dla finger, CSO/ph/qi oraz whois.</em:description>
+	</Description>
+	</em:localized>
+	<em:localized>
+	<Description>
+	 <em:locale>es-ES</em:locale>
+	 <em:name>OverbiteFF</em:name>
+	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
+	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
+	 <em:translator>Shaine Mata</em:translator>
+	 <em:description>Extension Gopher mejorada para Firefox y Pale Moon con soporte de servicios finger, CSO/ph/qi y whois.</em:description>
+	</Description>
+	</em:localized>
+	<em:localized>
+	<Description>
+	 <em:locale>nl-NL</em:locale>
+	 <em:name>OverbiteFF</em:name>
+	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
+	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
+	 <em:translator>Jeroen Schot</em:translator>
+	 <em:description>Verbeterde Gopher extensie voor Firefox en Pale Moon met finger, CSO/ph/qi en whois ondersteuning.</em:description>
+	</Description>
+	</em:localized>
+	<em:localized>
+	<Description>
+	 <em:locale>hu-HU</em:locale>
+	 <em:name>OverbiteFF</em:name>
+	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
+	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
+	 <em:translator>Máté Nagy</em:translator>
+	 <em:description>Fejlett Gopher kiegészítés Firefox/Pale Moon-hoz, finger, CSO/ph/qi és whois támogatással.</em:description>
+	</Description>
+	</em:localized>
+	<em:localized>
+	<Description>
+         <em:locale>de-DE</em:locale>
+         <em:name>OverbiteFF</em:name>
+	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
+	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
+         <em:translator>Dennis Schulmeister</em:translator>
+         <em:description>Umfangreiche Gopher-Erweiterung für Firefox und Pale Moon, mit finger, CSO/ph/qi und whois-Unterstützung.</em:description>
+	</Description>
+	</em:localized>
+	<em:localized>
+	<Description>
+	 <em:locale>da-DK</em:locale>
+	 <em:name>OverbiteFF</em:name>
+	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
+	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
+	 <em:translator>Jacob Dahl Pind</em:translator>
+	 <em:description>Forbederet Gopher tilføjelse til Firefox og Pale Moon, med finger, CSO/ph/qi og whois understøttelse.</em:description>
+	</Description>
+	</em:localized>
+	<em:localized>		
+	<Description>
+	 <em:locale>ru-RU</em:locale>
+	 <em:name>OverbiteFF</em:name>
+	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
+	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
+	 <em:translator>Roman Pavlov</em:translator>
+	 <em:description>Расширение Gopher для Firefox/Pale Moon с поддержкой finger, CSO/ph/qi и whois.</em:description>
+	</Description>
+	</em:localized>
+	<em:localized>
+	<Description>
+ 	 <em:locale>ja-JP</em:locale>
+ 	 <em:name>OverbiteFF</em:name>
+	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
+	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
+ 	 <em:translator>David Meyer</em:translator>
+	 <em:description>改善したGopherクライアントのFirefoxとPale Moon拡張機能。finger、CSO/ph/qi、whoisもサポートする。</em:description>
+	</Description>
+	</em:localized>
+	<em:localized>
+	<Description>
+ 	 <em:locale>fr-FR</em:locale>
+ 	 <em:name>OverbiteFF</em:name>
+	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
+	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
+ 	 <em:translator>Stegozor</em:translator>
+         <em:description>Extension Gopher avancée pour Firefox et Pale Moon, avec support pour finger, CSO/ph/qi et whois.</em:description>
+        </Description>
+        </em:localized>
+	<em:localized>
+	<Description>
+ 	 <em:locale>tr-TR</em:locale>
+ 	 <em:name>OverbiteFF</em:name>
+	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
+	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
+ 	 <em:translator>Stegozor</em:translator>
+         <em:description>Firefox/Pale Moon için finger, CSO/ph/qi ve whois desteği bulunan gelişmiş Gopher eklentisi.</em:description>
+        </Description>
+        </em:localized>
+	<em:localized>
+	<Description>
+	 <em:locale>nb-NO</em:locale>
+	 <em:name>OverbiteFF</em:name>
+	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
+	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
+	 <em:translator>Cato Auestad</em:translator>
+	 <em:description>Forbedret Gopher-utvidelse til Firefox og Pale Moon, med finger, CSO/ph/qi og whois støtte.</em:description>
+	</Description>
+	</em:localized>
+  </Description>
+</RDF>
