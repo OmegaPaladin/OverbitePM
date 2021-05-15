@@ -2,8 +2,8 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 	xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
-	<em:id>overbiteff@floodgap.com</em:id>
-	<em:version>3.1.1695</em:version>
+	<em:id>overbitepm@floodgap.com</em:id>
+	<em:version>3.1.1696</em:version>
 	<em:type>2</em:type>
 	
 	<!-- Pale Moon -->
@@ -33,18 +33,18 @@
 		</Description>
 	</em:targetApplication>
 
-	<em:name>OverbiteFF</em:name>
+	<em:name>OverbitePM</em:name>
 	<em:description>Enhanced Gopher extension for Firefox and Pale Moon, with finger, CSO/ph/qi and whois support.</em:description>
 	<em:creator>Cameron Kaiser/Overbite Project</em:creator>
 	<em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
 	<em:contributor>All of our testers</em:contributor>
 	<em:contributor>and localizers</em:contributor>
-	<em:iconURL>chrome://overbiteff/content/imascot.png</em:iconURL>
+	<em:iconURL>chrome://OverbiteFF/content/imascot.png</em:iconURL>
 	<!-- i18n -->
 	<em:localized>
 	<Description>
 	 <em:locale>pl-PL</em:locale>
-	 <em:name>OverbiteFF</em:name>
+	 <em:name>OverbitePM</em:name>
 	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
 	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
 	 <em:translator>B.J. Stobiecki</em:translator>
@@ -54,7 +54,7 @@
 	<em:localized>
 	<Description>
 	 <em:locale>es-ES</em:locale>
-	 <em:name>OverbiteFF</em:name>
+	 <em:name>OverbitePM</em:name>
 	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
 	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
 	 <em:translator>Shaine Mata</em:translator>
@@ -64,7 +64,7 @@
 	<em:localized>
 	<Description>
 	 <em:locale>nl-NL</em:locale>
-	 <em:name>OverbiteFF</em:name>
+	 <em:name>OverbitePM</em:name>
 	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
 	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
 	 <em:translator>Jeroen Schot</em:translator>
@@ -74,7 +74,7 @@
 	<em:localized>
 	<Description>
 	 <em:locale>hu-HU</em:locale>
-	 <em:name>OverbiteFF</em:name>
+	 <em:name>OverbitePM</em:name>
 	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
 	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
 	 <em:translator>Máté Nagy</em:translator>
@@ -84,7 +84,7 @@
 	<em:localized>
 	<Description>
          <em:locale>de-DE</em:locale>
-         <em:name>OverbiteFF</em:name>
+         <em:name>OverbitePM</em:name>
 	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
 	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
          <em:translator>Dennis Schulmeister</em:translator>
@@ -94,7 +94,7 @@
 	<em:localized>
 	<Description>
 	 <em:locale>da-DK</em:locale>
-	 <em:name>OverbiteFF</em:name>
+	 <em:name>OverbitePM</em:name>
 	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
 	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
 	 <em:translator>Jacob Dahl Pind</em:translator>
@@ -104,7 +104,7 @@
 	<em:localized>		
 	<Description>
 	 <em:locale>ru-RU</em:locale>
-	 <em:name>OverbiteFF</em:name>
+	 <em:name>OverbitePM</em:name>
 	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
 	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
 	 <em:translator>Roman Pavlov</em:translator>
@@ -114,7 +114,7 @@
 	<em:localized>
 	<Description>
  	 <em:locale>ja-JP</em:locale>
- 	 <em:name>OverbiteFF</em:name>
+ 	 <em:name>OverbitePM</em:name>
 	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
 	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
  	 <em:translator>David Meyer</em:translator>
@@ -124,7 +124,7 @@
 	<em:localized>
 	<Description>
  	 <em:locale>fr-FR</em:locale>
- 	 <em:name>OverbiteFF</em:name>
+ 	 <em:name>OverbitePM</em:name>
 	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
 	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
  	 <em:translator>Stegozor</em:translator>
@@ -134,7 +134,7 @@
 	<em:localized>
 	<Description>
  	 <em:locale>tr-TR</em:locale>
- 	 <em:name>OverbiteFF</em:name>
+ 	 <em:name>OverbitePM</em:name>
 	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
 	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
  	 <em:translator>Stegozor</em:translator>
@@ -144,7 +144,7 @@
 	<em:localized>
 	<Description>
 	 <em:locale>nb-NO</em:locale>
-	 <em:name>OverbiteFF</em:name>
+	 <em:name>OverbitePM</em:name>
 	 <em:creator>Cameron Kaiser/Overbite Project</em:creator>
 	 <em:homepageURL>http://gopher.floodgap.com/overbite/</em:homepageURL>
 	 <em:translator>Cato Auestad</em:translator>
