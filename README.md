@@ -1,7 +1,7 @@
 # OverbitePM
 Continuation of the OverbiteFF project for Pale Moon
 
-Cameron  of FloodGap created the OverbiteFF project to allow Firefox to access Gopherholes natively, without use of a proxy.  This was part of his major effort to wake Gopher from hibernation.  However, the complete change in the addon / extension format for Firefox forced development to move to a WebExtensions compatible format - OverbiteWX and OverbiteNX, while development ceased on the original program.
+Cameron Kaiser of FloodGap created the OverbiteFF project to allow Firefox to access Gopherholes natively, without use of a proxy.  This was part of his major effort to wake Gopher from hibernation.  However, the complete change in the addon / extension format for Firefox forced development to move to a WebExtensions compatible format - OverbiteWX and OverbiteNX, while development ceased on the original extension.
 gopher://gopher.floodgap.com/1/overbite
 http://gopher.floodgap.com/overbite/
 
